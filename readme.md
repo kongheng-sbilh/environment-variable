@@ -4,6 +4,7 @@
 - Open the ternimal
 - Run `mvn clean install`
 - Run `java -jar .\target\environment-variable-0.0.1-SNAPSHOT.jar`
+- Access to `localhost:8080`
 
 ## Start the project from Docker
 - Open the ternimal
