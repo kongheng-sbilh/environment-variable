@@ -1,1 +1,1 @@
-# Rename the `.env-sample` to `.env` and replace the properties value with the real data.
+# Rename the `.env-sample` to `.env` and replace the properties value with the real value.
