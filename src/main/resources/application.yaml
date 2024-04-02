@@ -1,3 +1,7 @@
 spring:
   application:
     name: environment-variable
+
+DATABASE_NAME: ${DB_URL:localhost}
+USER_NAME: ${USER:root}
+PASSWORD: ${PASS:root}
