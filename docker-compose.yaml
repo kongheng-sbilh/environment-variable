@@ -1,0 +1,7 @@
+version: '3'
+services:
+  app:
+    image: 'konghengsbilh/environment-variable:latest'
+    container_name: My-App
+    ports:
+      - '8080:8080'
