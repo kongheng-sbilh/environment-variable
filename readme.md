@@ -10,3 +10,8 @@
 - Open the ternimal
 - Run `docker-compose up`
 - Access to `localhost:8080`
+
+
+
+### Noted:
+Run this command `java -jar .\target\environment-variable-0.0.1-SNAPSHOT.jar --spring.profiles.active=uat` to start the application based on profile active.
